@@ -1,0 +1,28 @@
+wiki/1
+
+Google Maps does not seem to work well in Seoul.
+
+It has been able to find most locations I've tried.
+
+But for whatever reason, it very often cannot calculate a route.
+
+❦
+
+I download Navar Maps to use in Korea.
+
+❦
+
+Some information from **Chris Palasz** (a.k.a. **Carbon Chris**) on why Google Maps doesn't work well in Korea:
+
+― In Korea, Google maps is a no-go.
+― You should download and use Naver or Kakao or Daum maps.
+― (those are Korean companies. Naver provides English.)
+― Korean Government wants to restrict Google maps in ways that Google refuses, so Google doesn’t get permission to use shared info.
+― 
+― There’s a law that maps of Korea must blur details of sensitive locations such as government buildings and military bases.
+― Google agreed to do this for their Korean version, but refuses to do this for their other versions.
+― So anyone could just switch to a different version to see.
+
+⸺ by Charles Iliya Krempeaux
+
+⸺ published 2018-09-01T20:40:59+09:00
